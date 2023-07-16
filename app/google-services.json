@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "619706350329",
+    "firebase_url": "https://stable-vista-299310-default-rtdb.firebaseio.com",
+    "project_id": "stable-vista-299310",
+    "storage_bucket": "stable-vista-299310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619706350329:android:222be81f08e693d084c028",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiyfTQi7nM7G-SavGYshdkCTzjfxFkok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619706350329:android:70bec218a0f9dd0484c028",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619706350329-83e06qgh1bs88t609nvfucihafm7blg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_quiz",
+            "certificate_hash": "d31d4f56ddc12787d88bfe10f623a2324426c080"
+          }
+        },
+        {
+          "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiyfTQi7nM7G-SavGYshdkCTzjfxFkok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619706350329:android:bd7cc40a0b9cefa584c028",
+        "android_client_info": {
+          "package_name": "edu.wpi.jlyu.sceneformfurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiyfTQi7nM7G-SavGYshdkCTzjfxFkok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619706350329-bg693mmo49tp0pns1v96ii4bf2ds80f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        >
+
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:title="Setting"
+        >
+
+    </item>
+    <item
+        android:id="@+id/search"
+        app:showAsAction="always"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+       app:actionViewClass="android.widget.SearchView" >
+
+    </item>
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add"
+        ></item>
+    <item
+        android:visible="false"
+        android:id="@+id/craetegrp"
+        android:title="Group"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_group"
+        ></item>
+    <item
+        android:id="@+id/addparticipants"
+        android:title="Add Participants"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_addparticipants"
+        ></item>
+    <item
+        android:id="@+id/grpinfo"
+        android:title="Group Info"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_info"
+        ></item>
+</menu>

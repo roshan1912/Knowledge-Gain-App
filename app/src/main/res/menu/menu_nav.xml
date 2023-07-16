@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/nav_users"
+        android:title="Users"
+        android:icon="@drawable/ic_users"/>
+    <item android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_account"/>
+    <item android:id="@+id/nav_chat"
+        android:title="ChatList"
+        android:icon="@drawable/ic_chat"/>
+<!--    <item android:id="@+id/nav_more"-->
+<!--        android:visible="false"-->
+<!--        android:title="Groups"-->
+<!--        android:icon="@drawable/ic_group"/>-->
+    <item android:id="@+id/nav_news"
+        android:visible="true"
+        android:title="News"
+        android:icon="@drawable/ic_baseline_newspaper_24"/>
+</menu>
